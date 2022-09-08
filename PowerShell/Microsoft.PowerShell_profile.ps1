@@ -1,0 +1,1 @@
+oh-my-posh --init --shell pwsh --config $env:POSH_THEMES_PATH/stelbent-compact.minimal.omp.json | Invoke-Expression
